@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlinkingEmergencyCalls</string>
+    <string name="title_activity_splash_settings">BlinkingEmergencyCalls</string>
+    <string name="open_contract">Open Contract</string>
+    <string name="title">Settings</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="primaryValue">BlinkCount:1</string>
+    <string name="settings">Settings</string>
+</resources>
